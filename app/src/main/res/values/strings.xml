@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PopIOSAlertDialog</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="prompt">提示</string>
+    <string name="please_input_content">请输入内容</string>
+    <string name="please_choose_model">请选择模块</string>
+</resources>
