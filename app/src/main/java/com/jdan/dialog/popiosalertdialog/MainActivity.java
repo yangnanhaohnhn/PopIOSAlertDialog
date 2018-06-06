@@ -2,10 +2,13 @@ package com.jdan.dialog.popiosalertdialog;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.jdan.popiosdialog.IOSPromptDialog;
+import com.jdan.popiosdialog.IOSSheetDialog;
+import com.jdan.popiosdialog.OnSheetItemClickListener;
 
 public class MainActivity extends AppCompatActivity {
 
